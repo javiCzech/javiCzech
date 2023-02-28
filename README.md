@@ -11,7 +11,7 @@ Tengo varios proyectos creados  y actualmente me sigo actualizando en las difere
 Poseo conocimiento en las siguientes tecnologias: HTML, CSS, JavaScript, ReactJS, SASS, GIT, GitHub.
 
 
-
+Mi Linkedin es: https://www.linkedin.com/in/javier-brizuela-czech/
 📫 Mi email es: javier.brizuela237@gmail.com
 
 <!---
