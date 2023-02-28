@@ -1,8 +1,5 @@
-- https://www.canva.com/design/DAFb4Bc1uRc/Wz08TC5-bDhLBSsWdrPUdw/view?utm_content=DAFb4Bc1uRc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
-- 
-- 
-- 
-- 
+![Presentación de Proyecto Moderno Negro Blanco Verde (4)](https://user-images.githubusercontent.com/83432245/221929013-77cd938f-4306-4b3c-b4b2-aee7c2aab3dd.gif)
+
 - 
 - 👋 Hi, I’m @javiCzech
 - 👀 I’m interested in Front End Developer technology
