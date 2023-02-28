@@ -1,4 +1,5 @@
-![Presentación de Proyecto Moderno Negro Blanco Verde (7)](https://user-images.githubusercontent.com/83432245/221933101-ac8bb440-be70-40e5-b5ff-8812f79d23dd.gif)
+![Presentación de Proyecto Moderno Negro Blanco Verde (7) (1)](https://user-images.githubusercontent.com/83432245/221933740-48a744b5-0152-461f-8bfb-78e1e93694a8.gif)
+
 
 
 - 
