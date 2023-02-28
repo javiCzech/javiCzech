@@ -12,6 +12,7 @@ Poseo conocimiento en las siguientes tecnologias: HTML, CSS, JavaScript, ReactJS
 
 
 Mi Linkedin es: https://www.linkedin.com/in/javier-brizuela-czech/
+
 📫 Mi email es: javier.brizuela237@gmail.com
 
 <!---
