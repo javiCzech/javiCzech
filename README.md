@@ -6,7 +6,7 @@ Mi nombre es Javier, soy Frontend Developer Trainee y estudiante de la carrera A
 
 Me encuentro en constante aprendizaje, con el fin de dar lo mejor de mí, y realizarme tanto en lo profesional como lo personal. Soy proactivo, organizado, con capacidad para el trabajo en equipo y, con compromiso en cada desafío planteado.
 
-Tengo varios proyectos creados  y actualmente me sigo actualizando en las diferentes tecnologías que manejo para por encontrar mi primer trabajo en el área de la programación. 
+Tengo varios proyectos creados  y actualmente me sigo actualizando en las diferentes tecnologías que manejo, para poder llegar a conseguir mi primer trabajo en el área de la programación. 
 
 Poseo conocimiento en las siguientes tecnologias: HTML, CSS, JavaScript, ReactJS, SASS, GIT, GitHub.
 
